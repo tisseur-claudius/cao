@@ -25,3 +25,4 @@ List of my differents projects :
 * Stairs
 * Studio_photo : Photo Box
 
+Licence CC-BY-NC (Non Commercial)
